@@ -20,7 +20,7 @@ export const GET = (req, res) =>{
             currency: "INR",
             receipt: "TXN" + Date.now(),
             notes: {
-                key1: 'Devraj',
+                key1: 'Dev',
                 key2: 'devanshbhagania19@gmail.com',
                 key3: '7814564601',
                 key4: 'khanna khurd',

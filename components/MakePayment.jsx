@@ -49,7 +49,7 @@ const MakePaymentComponent = (props) => {
     // console.log(orderdata.amount);
     // console.log(data.json());
     var options = {
-      key: 'rzp_test_v4wZXK8tUjyXFX',
+      key: key_env,    //# put your key
       amount: "10000",
       currency: 'INR',// Enter the Key ID generated from the Dashboard
       name: "Indradhanu online",
@@ -112,7 +112,7 @@ const MakePaymentComponent = (props) => {
       prefill: {
         name: "pradeep das",
         email: "devanshbhagania19@gmail.com",
-        contact: '8847064872'
+        contact: '7814546401'
       },
 
     };
