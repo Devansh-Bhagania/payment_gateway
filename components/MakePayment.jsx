@@ -5,7 +5,7 @@ import payforpdf from '../actions/payforpdf/payforpdf';
 
 
 const MakePaymentComponent = (props) => {
-
+    // github connected 
   // const clicker = async () => {
   //   console.log("props1==",props.props.id)
   // try{
